@@ -1,0 +1,15 @@
+.custom-control {
+    border-radius: 5px;
+    width: 400px;
+}
+
+span{
+    border-radius: 50px;
+    padding: 1px 5px;
+
+    &:hover {
+        background: lightblue;
+        transform: scale(1.2);
+    }
+    
+}
